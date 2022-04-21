@@ -1,0 +1,14 @@
+The project is based on that how many accidents happen in India in 2018.
+
+The data set we have worked upon has been downloaded from data.gov.in. It’s an census dataset 
+of year 2018 of the country India. Firstly we analyzed the data set by simply opening the “csv” 
+file. Then we pre-processed the wholedata set to remove the insignificant columns and empty 
+rows. Also, to get to know the all unique value of each attributes.
+
+Further, we performed the data visualization on the data set. We performed Exploratory analysis 
+of each to get an idea about how the values are entered in each attributes withreference to no. of 
+entries. 
+
+We performed total of four modules of Python on our dataset: Numpy, Pandas, Matplotlib, Seaborn.
+The support of an objective is to clean data and provide the maximum solutions of the queries 
+generated from this dataset using above Modules and to visualize them for better understanding.
